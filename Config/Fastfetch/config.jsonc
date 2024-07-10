@@ -4,8 +4,10 @@
         "source": "~/.config/fastfetch/fotos/mar.png",
         "type": "kitty",
        
- },
-  "display": {
+
+      },
+  
+    "display": {
     "separator": " ➜ "
   },
   "modules": [
