@@ -1,0 +1,39 @@
+call plug#begin()
+
+
+call plug#end()
+
+
+
+set encoding=utf8
+set mouse=a
+set number
+set incsearch 
+set ignorecase
+set smartcase
+set updatetime=100
+set nobackup
+set nowritebackup
+set autoread
+set clipboard=unnamedplus
+set hls
+set background=dark
+set termguicolors
+set autoindent
+"set cursorline
+
+syntax on
+filetype on
+
+set t_Co=256
+
+ colorscheme 12tribos
+
+
+
+
+
+
+let mapleader="\<space>"
+nnoremap <leader>; A;<esc>
+nnoremap <leader>h :vsplit /home/leonardo121071/
