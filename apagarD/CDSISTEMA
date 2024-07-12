@@ -1,0 +1,66 @@
+
+i3> .config/i3/config
+Hyprland> .config/hypr/hyprland.conf 
+
+kitty> .config/kitty/kitty.conf
+Alacritty> .config/alacritty/alacritty.toml
+
+Fastfetch> .config/fastfetch/config.jsonc
+Nitrogen> .config/nitrogen/nitrogen.cfg
+Htop> .config/htop/htoprc
+Picom> .config/picom/picom.conf 
+
+Neofetch> .config/neofetch/config.conf
+Neovim> .config/nvim/init.vim
+NvimTemas> /usr/share/nvim/runtime/colors
+Vim> .vimrc
+VimTemas> /usr/share/vim/vim91/colors
+
+Pacman> /etc/pacman.conf
+FontsG> /usr/share/fonts/
+FontsU> .local/share/fonts/
+
+
+    _______
+    \CORES/
+     \<->/
+      \^/
+
+#010FE6 -azul 100%             #2B17E8 -azul 
+#ffffff -branco 100%
+#FF0000 -vermelho 100%         #8c0a04 -vermelho escuro
+#ffbf00 -Dourado
+#055111 -VerdeEscuro
+
+
+
+   _________
+   \USUARIO/
+    \<--->/
+     \<->/
+      \^/
+
+*Asa Mikata = https://github.com/paranoidbarbie/Mtfuji
+
+*Matt = https://github.com/Matt-FTW/dotfiles
+
+
+
+
+   _________
+   \PLUGINS/
+    \<--->/
+     \<->/
+      \^/
+
+
+
+
+
+ 
+
+
+
+
+
+

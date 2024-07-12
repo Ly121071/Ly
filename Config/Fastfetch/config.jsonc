@@ -2,12 +2,10 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json", 
   "logo": {
         "source": "~/.config/fastfetch/fotos/mar.png",
-        "type": "kitty",
+        "type": "kitty"
        
-
-      },
-  
-    "display": {
+ },
+  "display": {
     "separator": " ➜ "
   },
   "modules": [
@@ -78,4 +76,3 @@
 "break"
  ]
 }
-
