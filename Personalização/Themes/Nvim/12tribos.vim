@@ -32,6 +32,13 @@ hi LineNr guifg=#000044 guibg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#8c0a04 guibg=#000000 gui=NONE cterm=NONE
 
 
+"TAB
+
+hi TabLine guifg=#ffffff guibg=#000000 gui=NONE cterm=NONE
+hi TabLineSel guifg=#055111 guibg=#000000 gui=bold cterm=bold
+hi TabLineFill guifg=NONE guibg=#000000 gui=NONE cterm=NONE
+
+
 "MENU
 
 hi Pmenu guifg=#ffffff guibg=#000000 gui=NONE cterm=NONE
@@ -40,6 +47,8 @@ hi PmenuSel guifg=#ffbf00 guibg=#000000 gui=NONE cterm=NONE
 
 "Msg
 
+hi Error guifg=#000000 guibg=#ffbf00 gui=reverse cterm=reverse
+hi ErrorMsg guifg=#ffbf00 guibg=#000000 gui=NONE cterm=NONE
 hi MoreMsg guifg=#ffffff guibg=NONE gui=bold cterm=bold
 
 
@@ -92,9 +101,6 @@ hi Special guifg=#ffbf00 guibg=NONE gui=NONE cterm=NONE
 " Cor Dos Diretorios/Pastas
 
 hi Directory guifg=#2B17E8 guibg=NONE gui=NONE cterm=NONE
-
-
-
 
 
 
